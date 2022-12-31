@@ -14,8 +14,7 @@ As the result, you will have all media files created with the date in the beginn
 When you inform one source, the program not only see in the current level of the directory, it tries to find other files searching recursively in the source. That is good for me because I want my media files in one centralized folder and if I can see the oldest or the newer, I just need to be ordered by name. 
 I use the Standard [Year(YYYY) + Month(MM) + Day(DD) + "_" + File Name] the helps to do this process
 
-![Example Result]
-(https://github.com/Fabricio-Peruso/CS50P/blob/main/Example.jpeg)
+![Example Result](https://github.com/Fabricio-Peruso/CS50P/blob/main/Example.jpeg)
 
 ### Tecnology:
 
